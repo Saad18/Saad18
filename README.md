@@ -1,4 +1,4 @@
-![Nurul Haque Saad,Android Developer](https://i.imgur.com/57mYG1W.jpg?1)
+![Nurul Haque Saad,Android Developer](https://imgur.com/57mYG1W)
 
 ### Here is What i'm Working On! 👋
 
