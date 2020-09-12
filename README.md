@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...Deep Learning
 - 👯 I’m looking to collaborate on ...Deep Learning
 - 💬 Ask me about ...Anything
-- ⚡ Fun fact: ...I am almost Finished
+- ⚡ Fun fact: ...I am half Finished
