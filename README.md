@@ -1,7 +1,7 @@
+![Nurul Haque Saad,Android Developer](https://imgur.com/57mYG1W)
+
 ### Here is What i'm Working On! 👋
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Android Platform
 - 🌱 I’m currently learning ...Deep Learning
